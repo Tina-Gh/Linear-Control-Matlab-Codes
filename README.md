@@ -4,4 +4,4 @@ Here, there is my Linear Control course project:
 
 <strong> *control systems lab_Servo motor project.rar:</strong>
 
-In this project, I have simulated Servo motor, its controller and output in Matlab Simulink.
+In this project, I have simulated Servo motor, its controller and output in Matlab Simulink. There is also the report in Persian in the file.
