@@ -1,5 +1,5 @@
 # Linear-Control-Matlab-Codes
-Here, there is my Linear Control course project:
+Here, there is my Linear Control course and lab project:
 
 <strong>* Motor driven pondolum.zip</strong>
 
